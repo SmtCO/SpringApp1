@@ -1,0 +1,11 @@
+tr\com\havelsan\summerschool\blogapp\domain\Girdi.class
+tr\com\havelsan\summerschool\blogapp\repository\KullaniciRepository.class
+tr\com\havelsan\summerschool\blogapp\repository\BlogRepository.class
+tr\com\havelsan\summerschool\blogapp\repository\YorumRepository.class
+tr\com\havelsan\summerschool\blogapp\resource\KullaniciResource.class
+tr\com\havelsan\summerschool\blogapp\domain\Yorum.class
+tr\com\havelsan\summerschool\blogapp\repository\GirdiRepository.class
+tr\com\havelsan\summerschool\blogapp\SwaggerConfig.class
+tr\com\havelsan\summerschool\blogapp\domain\Kullanici.class
+tr\com\havelsan\summerschool\blogapp\BlogAppApplication.class
+tr\com\havelsan\summerschool\blogapp\domain\Blog.class

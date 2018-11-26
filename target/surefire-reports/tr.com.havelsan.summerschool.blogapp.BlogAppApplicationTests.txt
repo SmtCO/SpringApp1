@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tr.com.havelsan.summerschool.blogapp.BlogAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.447 s - in tr.com.havelsan.summerschool.blogapp.BlogAppApplicationTests
